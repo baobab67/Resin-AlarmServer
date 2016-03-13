@@ -1,5 +1,5 @@
 # Resin-AlarmServer
-Resin.io Dockerfile and config to allow SmartThings-DSC-AlarmServer to be pushed to a device.
+http://Resin.io Dockerfile and config to allow SmartThings-DSC-AlarmServer to be pushed to a device.
 Assumes you have read https://github.com/kholloway/smartthings-dsc-alarm and https://github.com/juggie/AlarmServer
 
 1. Edit the `alarmserver.cfg` file
